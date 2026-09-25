@@ -28,10 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Jin Kim.
+## Hi, I’m Jin Kim
 
 I’m an Electrical Engineering student at UCLA interested in embedded systems, robotics, power electronics, and hardware–software co-design.
 
-## Focus
+## Interests
 
 I build practical systems that connect circuits, sensors, firmware, and data.
