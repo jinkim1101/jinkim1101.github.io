@@ -10,8 +10,8 @@ profile:
   image: jin_kim_headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Electrical Engineering Student</p>
-    <p>University of California, Los Angeles</p>
+    <p>Electrical Engineering</p>
+    <p>University of California, Los Angeles (UCLA)</p>
     <p><a href="mailto:jinkim04@ucla.edu">jinkim04@ucla.edu</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,6 +28,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+  @media (min-width: 992px) {
+    .post .profile.float-right {
+      margin-left: 2.5rem;
+    }
+  }
+</style>
+
 ## Hi, I’m Jin Kim
 
 I’m a second-year Electrical Engineering student at UCLA. Before moving to LA, I lived in Canada, South Korea, and Japan and attended eight different schools. I know what it feels like to be the new kid, so I make it my priority to be compassionate and inclusive. I want to bring that same care to the technology I build.
@@ -42,7 +50,7 @@ I’m passionate about robotics and embedded systems: combining electronics, sof
   <div class="contact-icons">{% social_links %}</div>
 </div>
 
-## Projects
+<h2 style="margin-top: 3rem;">Projects</h2>
 
 ### [Inflatable Magnetic Soft Tactile Sensor]({{ '/projects/1_project/' | relative_url }})
 
