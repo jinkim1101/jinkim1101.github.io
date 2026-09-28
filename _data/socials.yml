@@ -5,7 +5,5 @@ cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: jinkim04@ucla.edu # your email address
 github_username: jinkim1101
 linkedin_username: jin-kim-5259b7386
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
