@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "Jin Kim's Portfolio"
-first_name: Jin
+title: blank # uses the styled first/last-name title treatment
+first_name: Jin Kim's
 middle_name: 
-last_name: Kim
+last_name: Portfolio
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

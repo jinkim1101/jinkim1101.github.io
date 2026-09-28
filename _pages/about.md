@@ -15,7 +15,7 @@ profile:
     <p><a href="mailto:jinkim04@ucla.edu">jinkim04@ucla.edu</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # contact links are placed below the bio, before projects
 
 announcements:
   enabled: false # includes a list of news items
@@ -37,3 +37,13 @@ I’ve done research at UCLA’s Human–Computer Interaction Lab and Seoul Nati
 ## Interests
 
 I’m passionate about robotics and embedded systems: combining electronics, software, and physical design to make machines work. I’m also starting to explore power electronics and hardware–software co-design. You can find some of my projects below.
+
+<div class="social">
+  <div class="contact-icons">{% social_links %}</div>
+</div>
+
+## Projects
+
+### [Inflatable Magnetic Soft Tactile Sensor]({{ '/projects/1_project/' | relative_url }})
+
+Soft tactile sensing for force, orientation, and contact-state estimation.
