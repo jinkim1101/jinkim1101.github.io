@@ -30,8 +30,10 @@ latest_posts:
 
 ## Hi, I’m Jin Kim
 
-I’m an Electrical Engineering student at UCLA interested in embedded systems, robotics, power electronics, and hardware–software co-design.
+I’m a second-year Electrical Engineering student at UCLA. Before moving to LA, I lived in Canada, South Korea, and Japan and attended eight different schools. I know what it feels like to be the new kid, so I make it my priority to be compassionate and inclusive. I want to bring that same care to the technology I build.
+
+I’ve done research at UCLA’s Human–Computer Interaction Lab and Seoul National University’s Soft Robotics & Bionics Lab. Outside the lab, I’ve worked on startup consulting projects and learned about venture capital through business organizations on campus and internships. I’m interested in both the engineering and business sides of building new technology, and I’d like to bring that mix to a career in robotics.
 
 ## Interests
 
-I build practical systems that connect circuits, sensors, firmware, and data.
+I’m passionate about robotics and embedded systems: combining electronics, software, and physical design to make machines work. I’m also starting to explore power electronics and hardware–software co-design. You can find some of my projects below.
