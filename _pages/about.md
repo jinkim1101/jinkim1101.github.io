@@ -38,9 +38,7 @@ latest_posts:
 
 ## Hi, I’m Jin Kim
 
-I’m a second-year Electrical Engineering student at UCLA. Before moving to LA, I lived in Canada, South Korea, and Japan and attended eight different schools. I know what it feels like to be the new kid, so I make it my priority to be compassionate and inclusive. I want to bring that same care to the technology I build.
-
-I’ve done research at UCLA’s Human–Computer Interaction Lab and Seoul National University’s Soft Robotics & Bionics Lab. Outside the lab, I’ve worked on startup consulting projects and learned about venture capital through business organizations on campus and internships. I’m interested in both the engineering and business sides of building new technology, and I’d like to bring that mix to a career in robotics.
+I’m a second-year Electrical Engineering student at UCLA, with a growing interest in robotics. At UCLA’s Human–Computer Interaction Lab, I worked on an AI-assisted interface that helps researchers plan experiments. This past summer, I studied soft tactile sensors for robotics at Seoul National University’s Soft Robotics & Bionics Lab. Outside research, I’ve worked on startup consulting projects and explored venture capital through campus organizations and internships. I’m interested in building robotics technology and learning what it takes to bring it into the world. 
 
 ## Interests
 
