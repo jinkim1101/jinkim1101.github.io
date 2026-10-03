@@ -89,7 +89,7 @@ I’m a second-year Electrical Engineering student at UCLA, with a growing inter
 
 ## Interests
 
-I’m passionate about robotics and embedded systems: combining electronics, software, and physical design to make machines work. I’m also starting to explore power electronics and hardware–software co-design. You can find some of my projects below.
+I’m passionate about robotics and embedded systems: combining electronics, software, and physical design to make machines work. I’m also starting to explore power electronics and diving deeper into tactile sensing for robotics. You can find some of my projects below.
 
 <div class="social">
   <div class="contact-icons">{% social_links %}</div>
@@ -113,7 +113,7 @@ I’m passionate about robotics and embedded systems: combining electronics, sof
       <h3>
         <a href="{{ '/projects/1_project/' | relative_url }}">Inflatable Magnetic Soft Tactile Sensor</a>
       </h3>
-      <p>Soft tactile sensing for force, orientation, and contact-state estimation.</p>
+      <p>Soft tactile sensing for force, orientation, and contact-state estimation. Publication aimed for later this year.</p>
     </div>
   </article>
 
