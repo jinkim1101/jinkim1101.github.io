@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # uses the styled first/last-name title treatment
-first_name: Jin Kim's
+first_name: Jin Kim
 middle_name: 
-last_name: Portfolio
+last_name: Research Portfolio
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
