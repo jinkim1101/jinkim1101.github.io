@@ -34,6 +34,53 @@ latest_posts:
       margin-left: 2.5rem;
     }
   }
+
+  .project-list {
+    display: grid;
+    gap: 2.75rem;
+    margin-top: 1.5rem;
+  }
+
+  .project-row {
+    display: grid;
+    grid-template-columns: 190px minmax(0, 1fr);
+    gap: 2rem;
+    align-items: start;
+  }
+
+  .project-preview {
+    display: block;
+  }
+
+  .project-preview img {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.25rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.16);
+  }
+
+  .project-copy h3 {
+    margin: 0 0 0.65rem;
+    font-size: 1.35rem;
+    line-height: 1.3;
+  }
+
+  .project-copy p {
+    margin: 0;
+  }
+
+  @media (max-width: 640px) {
+    .project-row {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    .project-preview {
+      max-width: 320px;
+    }
+  }
 </style>
 
 ## Hi, I’m Jin Kim
@@ -50,6 +97,39 @@ I’m passionate about robotics and embedded systems: combining electronics, sof
 
 <h2 style="margin-top: 3rem;">Projects</h2>
 
-### [Inflatable Magnetic Soft Tactile Sensor]({{ '/projects/1_project/' | relative_url }})
+<div class="project-list">
+  <article class="project-row">
+    <a
+      class="project-preview"
+      href="{{ '/assets/pdf/inflatable-magnetic-soft-tactile-sensor-presentation.pdf' | relative_url }}"
+      aria-label="Open the Inflatable Magnetic Soft Tactile Sensor presentation"
+    >
+      <img
+        src="{{ '/assets/img/inflatable-magnetic-soft-tactile-sensor.png' | relative_url }}"
+        alt="Title slide for the Inflatable Magnetic Soft Tactile Sensor presentation"
+      >
+    </a>
+    <div class="project-copy">
+      <h3>
+        <a href="{{ '/projects/1_project/' | relative_url }}">Inflatable Magnetic Soft Tactile Sensor</a>
+      </h3>
+      <p>Soft tactile sensing for force, orientation, and contact-state estimation.</p>
+    </div>
+  </article>
 
-Soft tactile sensing for force, orientation, and contact-state estimation.
+  <article class="project-row">
+    <a
+      class="project-preview"
+      href="{{ '/assets/pptx/hypotree-overview.pptx' | relative_url }}"
+      aria-label="Open the HypoTree presentation"
+    >
+      <img src="{{ '/assets/img/hypotree-overview.png' | relative_url }}" alt="Title slide for the HypoTree presentation">
+    </a>
+    <div class="project-copy">
+      <h3>
+        <a href="{{ '/assets/pptx/hypotree-overview.pptx' | relative_url }}">HypoTree</a>
+      </h3>
+      <p>An AI-assisted tree workspace that helps scientists structure multi-experiment research and decide what to test next.</p>
+    </div>
+  </article>
+</div>
